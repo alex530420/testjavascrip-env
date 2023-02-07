@@ -1,0 +1,23 @@
+{
+  "name": "testjavascrip-env",
+  "version": "0.0.0",
+  "description": "Esto es un esntorno de prueba de ES6 para node",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex530420/testjavascrip-env.git"
+  },
+  "keywords": [
+    "Node",
+    "ES6"
+  ],
+  "author": "alex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alex530420/testjavascrip-env/issues"
+  },
+  "homepage": "https://github.com/alex530420/testjavascrip-env#readme"
+}
